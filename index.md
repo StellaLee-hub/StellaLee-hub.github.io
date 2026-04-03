@@ -1,23 +1,14 @@
-
----
 # 🎓 英语视听说 1 (English Listening & Speaking 1)
 
----
-
 ## 👩‍🏫 Course Information | 课程基本信息
-
 - **Instructor:** 李星星 (Stella Lee)  
 - **Institution:** 上海应用技术大学 · 外国语学院  
 - **Course Code:** B1110604  
 - **Credits:** 2  
 - **Target Students:** 中外合作办学各专业一年级学生  
 
----
-
 ## 📌 Course Overview | 课程简介
-
 本课程旨在系统提升学生的 **英语听力与口语表达能力**，并同步培养跨文化交际意识与综合文化素养。
-
 课程特色包括：  
 - 🗣️ **真实语境训练**：提升日常交流的流利度与准确度  
 - 🤖 **AI辅助学习**：强化听力输入与口语输出  
