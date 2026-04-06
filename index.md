@@ -49,9 +49,8 @@
 
 **🗣️ Speaking Out（输出）**
 - Role-play（角色扮演）  
-- Group Discussion（小组讨论）  
-
----
+- Group Discussion（小组讨论）
+- 
 
 ### 2️⃣ CET-4 Training（四级专项）
 
@@ -69,6 +68,20 @@
 
 👉 形式：演讲 / 配音 / 情景表演  
 👉 目标：提升语言应用能力 + 团队协作能力  
+
+---
+## 📅 Weekly Plan | 周学习安排
+
+👉 Click to view weekly content:
+
+- [Week 1–2: Course Orientation & Unit 1 — A Break for Fun](week1-2.html)  
+- Week 3–4: Unit 2 — Life Moments  
+- Week 5–6: Unit 3 — Wit and Fit + Quiz 1 / CET-4 Practice  
+- Week 7–8: Unit 3 — Wit and Fit  
+- Week 9–10: Unit 4 — Relax and Explore + Quiz 2 / CET-4 Practice  
+- Week 11–12: Unit 4 — Relax and Explore & Unit 5 — Get from A to B  
+- Week 13–14: Unit 5 — Get from A to B + Quiz 3 / CET-4 Practice  
+- Week 15–16: Unit 6 — Wild and Wonderful & Speaking Test  
 
 ---
 
