@@ -1,5 +1,5 @@
 week1.md
-# 🎧 Week 1: Course Orientation & Unit 1
+# 🎧 Week 1-2: Course Orientation & Unit 1
 
 ---
 
