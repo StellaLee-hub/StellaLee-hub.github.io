@@ -74,11 +74,11 @@
 
 👉 Click to view weekly content:
 
-- [Week 1–2: Course Orientation & Unit 1 — A Break for Fun](week1-2.html)  
-- Week 3–4: Unit 2 — Life Moments  
-- Week 5–6: Unit 3 — Wit and Fit + Quiz 1 / CET-4 Practice  
-- Week 7–8: Unit 3 — Wit and Fit  
-- Week 9–10: Unit 4 — Relax and Explore + Quiz 2 / CET-4 Practice  
+- [Week 01–02: Course Orientation & Unit 1 — A Break for Fun](week01-02.html)  
+- Week 03–04: Unit 2 — Life Moments  
+- Week 05–06: Unit 3 — Wit and Fit + Quiz 1 / CET-4 Practice  
+- Week 07–08: Unit 3 — Wit and Fit  
+- Week 09–10: Unit 4 — Relax and Explore + Quiz 2 / CET-4 Practice  
 - Week 11–12: Unit 4 — Relax and Explore & Unit 5 — Get from A to B  
 - Week 13–14: Unit 5 — Get from A to B + Quiz 3 / CET-4 Practice  
 - Week 15–16: Unit 6 — Wild and Wonderful & Speaking Test  
